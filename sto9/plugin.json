@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "name": "Sto9 (思兔閱讀)",
+    "author": "vBook",
+    "version": 10,
+    "source": "https://sto9.com",
+    "regexp": "sto9\\.com/book/\\d+\\.html",
+    "description": "Đọc truyện chữ tiếng Trung phồn thể trên sto9.com (思兔閱讀)",
+    "locale": "zh-CN",
+    "type": "chinese_novel"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
