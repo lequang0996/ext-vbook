@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "author": "quanglm",
+    "description": ""
+  },
+  "data": [
+    {
+      "name": "Sto9 (思兔閱讀)",
+      "author": "quanglm",
+      "path": "https://raw.githubusercontent.com/lequang0996/ext-vbook/master/sto9/plugin.zip",
+      "version": 10,
+      "source": "https://sto9.com",
+      "icon": "https://raw.githubusercontent.com/lequang0996/ext-vbook/master/sto9/icon.png",
+      "description": "Đọc truyện chữ tiếng Trung phồn thể trên trang Sto9 (思兔閱讀)",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    }
+  ]
+}
